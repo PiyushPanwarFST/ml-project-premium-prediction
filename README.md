@@ -67,7 +67,7 @@ Together, these strategies enabled accurate, interpretable, and segment-aware pr
 # 🚀 Live App
 
 Interact with the **Shield Insurance Premium Estimator**:  
-👉 [Open App](https://ml-project-premium-prediction-manoj.streamlit.app/)
+👉 [Open App](https://ml-project-premium-prediction-piyush-panwar.streamlit.app/)
 
 ---
 
